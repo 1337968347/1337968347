@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning WebGl && computer graphics
+- 🌱 I’m currently learning computer graphics
